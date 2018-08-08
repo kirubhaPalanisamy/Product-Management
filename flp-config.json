@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "sap.ui.demo.orderbrowser.BrowserOrder",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/Browse_Orders",
+        "appUrl": "#BrowserOrder-Display",
+        "navigationComponentName": "sap.ui.demo.orderbrowser",
+        "intentSemanticObject": "BrowserOrder",
+        "intentAction": "Display",
+        "html5ApplicationName": "browserorder",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "68624ce2-68ff-422f-a1a1-0dfb15605514"
+        ],
+        "contentPackages": [
+            "269b215b-593a-4033-a7b1-aaf659dd8483"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Browser Orders",
+        "subtitle": "Products",
+        "searchKeywords": "Browser Orders,Products",
+        "displayIconUrl": "sap-icon://order-status",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
